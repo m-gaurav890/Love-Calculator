@@ -1,0 +1,43 @@
+body
+{
+    background-color: #BEAEE2;
+}
+h1
+{
+    text-align: center;
+    font-size: 7em;
+    font-family: 'Indie Flower', cursive;
+    color: #CDF0EA;
+    margin: 0px 0px 30px;
+}
+hr
+{
+    border-top:7px dotted #CDF0EA;
+    border-bottom: 0;
+    width: 50vw;
+}
+p
+{
+    font-size: 4em;
+    color: #F9F9F9;
+    font-family: 'Satisfy', cursive;
+}
+.box
+{
+    width: 30vw;
+    height: 5vh;
+}
+.submit
+{
+    margin-top: 30px;
+    background-color:#F7DBF0; 
+    padding: 10px 30px;
+}
+h3
+{
+    font-size: 5em;
+    font-family: 'Indie Flower', cursive;
+    color: #F7DBF0;
+    text-align: center;
+    margin: 10px 0px 0px ;
+}
